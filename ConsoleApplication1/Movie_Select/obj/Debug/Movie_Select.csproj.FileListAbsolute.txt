@@ -1,0 +1,6 @@
+Z:\Projects\GeekBrains\ConsoleApplication1\Movie_Select\bin\Debug\Movie_Select.exe.config
+Z:\Projects\GeekBrains\ConsoleApplication1\Movie_Select\bin\Debug\Movie_Select.exe
+Z:\Projects\GeekBrains\ConsoleApplication1\Movie_Select\bin\Debug\Movie_Select.pdb
+Z:\Projects\GeekBrains\ConsoleApplication1\Movie_Select\obj\Debug\Movie_Select.csprojResolveAssemblyReference.cache
+Z:\Projects\GeekBrains\ConsoleApplication1\Movie_Select\obj\Debug\Movie_Select.exe
+Z:\Projects\GeekBrains\ConsoleApplication1\Movie_Select\obj\Debug\Movie_Select.pdb

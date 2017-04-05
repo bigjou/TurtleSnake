@@ -1,0 +1,7 @@
+Z:\Projects\GeekBrains\ConsoleApplication1\SmallBasicGameSnake\bin\Debug\SmallBasicGameSnake.exe.config
+Z:\Projects\GeekBrains\ConsoleApplication1\SmallBasicGameSnake\bin\Debug\SmallBasicGameSnake.exe
+Z:\Projects\GeekBrains\ConsoleApplication1\SmallBasicGameSnake\bin\Debug\SmallBasicGameSnake.pdb
+Z:\Projects\GeekBrains\ConsoleApplication1\SmallBasicGameSnake\bin\Debug\SmallBasicLibrary.dll
+Z:\Projects\GeekBrains\ConsoleApplication1\SmallBasicGameSnake\bin\Debug\SmallBasicLibrary.xml
+Z:\Projects\GeekBrains\ConsoleApplication1\SmallBasicGameSnake\obj\Debug\SmallBasicGameSnake.exe
+Z:\Projects\GeekBrains\ConsoleApplication1\SmallBasicGameSnake\obj\Debug\SmallBasicGameSnake.pdb

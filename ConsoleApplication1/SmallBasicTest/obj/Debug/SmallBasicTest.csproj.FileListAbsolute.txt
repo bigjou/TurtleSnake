@@ -1,0 +1,8 @@
+Z:\Projects\GeekBrains\ConsoleApplication1\SmallBasicTest\bin\Debug\SmallBasicTest.exe.config
+Z:\Projects\GeekBrains\ConsoleApplication1\SmallBasicTest\bin\Debug\SmallBasicTest.exe
+Z:\Projects\GeekBrains\ConsoleApplication1\SmallBasicTest\bin\Debug\SmallBasicTest.pdb
+Z:\Projects\GeekBrains\ConsoleApplication1\SmallBasicTest\bin\Debug\SmallBasicLibrary.dll
+Z:\Projects\GeekBrains\ConsoleApplication1\SmallBasicTest\bin\Debug\SmallBasicLibrary.xml
+Z:\Projects\GeekBrains\ConsoleApplication1\SmallBasicTest\obj\Debug\SmallBasicTest.csprojResolveAssemblyReference.cache
+Z:\Projects\GeekBrains\ConsoleApplication1\SmallBasicTest\obj\Debug\SmallBasicTest.exe
+Z:\Projects\GeekBrains\ConsoleApplication1\SmallBasicTest\obj\Debug\SmallBasicTest.pdb
