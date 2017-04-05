@@ -1,6 +1,0 @@
-Z:\Projects\GeekBrains\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-Z:\Projects\GeekBrains\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-Z:\Projects\GeekBrains\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-Z:\Projects\GeekBrains\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
-Z:\Projects\GeekBrains\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-Z:\Projects\GeekBrains\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
